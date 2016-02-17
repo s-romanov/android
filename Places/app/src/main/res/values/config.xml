@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- google map api key -->
+    <string name="maps_api_key">AIzaSyDAQvweorr5HaPERSKa6RmyVtK6TWLdrMY</string>
+
+
+    <!-- places web api key -->
+    <string name="places_api_key">AIzaSyDFN5Cq__RGNKD8lxghzLvQeIEMPn3Eh-Y</string>
+
+    <!-- search radius in meters -->
+    <integer name="search_radius">3000</integer>
+
+    <!-- map markers padding -->
+    <integer name="map_padding">25</integer>
+</resources>

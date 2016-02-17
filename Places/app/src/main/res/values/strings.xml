@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Places</string>
+    <string name="google_maps_app_is_not_installed">Google maps application is not installed on your device. Would you like to install it?</string>
+    <string name="internet_connection">Internet Connection</string>
+    <string name="internet_connection_problem">There is no internet connection. Reconnect and try again.</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_results">No results</string>
+    <string name="query_limit_reached">Sorry, the maximum number of queries per day has been reached.</string>
+    <string name="invalid_request">Invalid request.</string>
+    <string name="no_permissions">You should provide location permissions, if you want to load the nearby places.</string>
+    <string name="meter_unit">m</string>
+    <string name="kilometer_unit">km</string>
+    <string name="error">Error</string>
+</resources>
